@@ -10,9 +10,17 @@ The Visual Studio files that come with the source code are hopelessly out of dat
 even on a Windows XP machine running Visual C++ 6.0. Believe me, I've tried. So rather than continue to wrestle with that,
 I have recreated the project instead.
 
-Please go to my website and comment if you would like to watch the videos, or if you have any questions.
+Please go to my website if you would like to watch the videos, or if you have any questions.
 
 http://philipbuuck.com/building-quake-2-with-visual-studio-2013
 
-All the best,
+This project is the exact same project created in the videos, except there were some extra unnecessary files left in that I have deleted. They are:
+
+/quake2.vcxproj.user<br />
+/win32/q2.aps<br />
+/win32/winquake.aps<br />
+/win32/qe3.ico<br />
+/win32/winquake.rc<br />
+
+All the best,<br />
 Philip
